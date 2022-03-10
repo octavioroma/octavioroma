@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @octavioroma
+- 👀 I am interested in learning to program.
+- 🌱 I’m currently learning.        
